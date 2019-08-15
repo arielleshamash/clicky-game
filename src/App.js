@@ -1,8 +1,8 @@
-import React from 'react';
-import './App.css';
-import Card from "./components/Card";
+import React, { Component } from 'react';
 import Wrapper from "./components/Wrapper";
-import Header from "./components/Header";
+import Card from "./components/Card";
+import Title from "./components/Title";
+import Nav from "./components/NavBar";
 import cards from "./cards.json";
 
 
@@ -51,15 +51,24 @@ gameOver = () => {
   render() {
     return (
       <Wrapper>
-        <Header currentScore={this.state.currentScore} highscore={this.state.highscore}></Header>
-        {this.state.cards.map(card => (
-          <Card
-            clickCount={this.clickCount}
-            id={card.id}
-            key={card.id}
-            image={card.image}
-          />
-        ))}
+        <Nav
+          title="App Clicky Game"
+          score={this.state.currentScore}
+          highScore={this.state.highScore}
+          message={this.state.message}
+        />
+
+        <Title>
+        Click on an image to earn points, but don't click on any more than once!
+        </Title>
+            {this.state.cards.map(card => (
+                 <Card
+                 clickCount={this.clickCount}
+                 id={card.id}
+                 key={card.id}
+                 image={card.image}
+               />
+            ))}
       </Wrapper>
     );
   }
