@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "youtube",
-        "image": "http://pngimg.com/uploads/youtube/youtube_PNG12.png",
+        "image": "https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png",
         "clicked": false
     },
     {
         "id": 2,
         "name": "facebook",
-        "image": "http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19751.png",
+        "image": "https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png",
         "clicked": false
     },
     {
         "id": 3,
         "name": "amazon",
-        "image": "http://pngimg.com/uploads/amazon/amazon_PNG27.png",
+        "image": "https://www.searchpng.com/wp-content/uploads/2019/01/Amazon-logo-png-715x715.png",
         "clicked": false
     },
     {
         "id": 4,
         "name": "google",
-        "image": "http://pngimg.com/uploads/google/google_PNG19630.png",
+        "image": "https://png2.kisspng.com/sh/57a84ba502a65eb279f4c58f78b5cdf0/L0KzQYm3VME6N6lmj5H0aYP2gLBuTfdwd5hxfZ91b3fyPbj2jBdtbV54fdN7Y3iwd7F2hBxmNZJoe9HAboSwgrbrhgMuPZJpUKNvOXTkRbXtUsgvO2g5TaIDMkO0RYO7UcE0O2EATqkEND7zfri=/kisspng-google-logo-google-search-google-account-redes-5ad81f9da5df28.3745082315241133096794.png",
         "clicked": false
     },
     {
         "id": 5,
         "name": "twitter",
-        "image": "http://pngimg.com/uploads/twitter/twitter_PNG9.png",
+        "image": "https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png",
         "clicked": false
     },
     {
         "id": 6,
         "name": "instagram",
-        "image": "http://pngimg.com/uploads/instagram/instagram_PNG10.png",
+        "image": "http://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png",
         "clicked": false
     },
     {
         "id": 7,
         "name": "twitch",
-        "image": "http://pngimg.com/uploads/twitch/twitch_PNG56.png",
+        "image": "https://www.freepnglogos.com/uploads/twitch-logo-symbol-25.png",
         "clicked": false
     },
     {
         "id": 8,
         "name": "disney",
-        "image": "http://pngimg.com/uploads/walt_disney/walt_disney_PNG13.png",
+        "image": "https://i.pinimg.com/originals/5f/8a/85/5f8a85054562d812b4f3ed841d720550.png",
         "clicked": false
     },
     {
         "id": 9,
         "name": "skype",
-        "image": "http://pngimg.com/uploads/skype/skype_PNG30.png",
+        "image": "http://www.hdicon.com/wp-content/uploads/2013/03/skype_2013.png",
         "clicked": false
     },
     {
         "id": 10,
         "name": "spotify",
-        "image": "https://png2.kisspng.com/sh/03c80ca8c7045fd6bea973efcc2f3e79/L0KzQYm3WMI4N6l2j5H0aYP2gLBuTfxwb5CyiOR4ZIXmhH7rhgNqb58yeuRqbnSwd8Pshf4uc5ZzkttuLXHwgH7okP90NaQye9H7bnX1PcT3jCRqbqoyhNHwbz3pgrF0Tfh1dZ0ye58AYki3RrPphMY5QWdpUJCDMUO0Qoa6U8E2O2Y5SKYEOEm3Qom7TwBvbz==/kisspng-logo-product-design-brand-green-kenzie-amp-apos-s-corner-spotify-logo-from-html-c-5b846bbd6896d8.8131253315354049894284.png",
+        "image": "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-vector-download-11.png",
         "clicked": false
     },
     {
         "id": 11,
         "name": "itunes",
-        "image": "https://png2.kisspng.com/sh/c3ab8c8896bba40d894bfb367906cb80/L0KzQYm3U8IxN519fZH0aYP2gLBuTfl1fZ9qi598dHB1dX7zjBdwNZJ1iN5uLXnyg37wlQVvbaQyjtdsdHB1PbX5ggdqdpgyTdNrMHa1QoiAWMBiOWIzT6YDNka7SYa4VcIyPWU6T6gCNEm0R3B3jvc=/kisspng-itunes-store-logo-apple-ios-itunes-vector-drawing-5ab0f227780a11.7486689515215457674917.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/ITunes_12.2_logo.png",
         "clicked": false
     },
     {
         "id": 12,
-        "name": "netflix",
-        "image": "https://png2.kisspng.com/sh/8c4b5bb6ac51449fe15b562532f99120/L0KzQYm3VcEzN5lniZH0aYP2gLBuTfxwb5CyeuRqbnSwfLr1hb02aZc7UKhrOEe2RrXqVb44OGo7SKs8MkG4Qoe4UMU4QGU5T6QDLoDxd1==/kisspng-logo-brand-line-5af686b8736dc5.7096093215261057844728.png",
+        "name": "github",
+        "image": "https://image.flaticon.com/icons/svg/25/25231.svg",
         "clicked": false
     }
 ]
