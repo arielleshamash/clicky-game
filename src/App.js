@@ -38,6 +38,7 @@ gameOver = () => {
     if (this.state.currentScore > this.state.highscore) {
       this.setState({highscore: this.state.currentScore}, function() {
         console.log(this.state.highscore);
+        this.setState({highScore: this.state.highscore});
       });
     }
     this.state.cards.forEach(card => {

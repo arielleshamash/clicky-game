@@ -20,7 +20,7 @@
     {
         "id": 4,
         "name": "google",
-        "image": "https://png2.kisspng.com/sh/57a84ba502a65eb279f4c58f78b5cdf0/L0KzQYm3VME6N6lmj5H0aYP2gLBuTfdwd5hxfZ91b3fyPbj2jBdtbV54fdN7Y3iwd7F2hBxmNZJoe9HAboSwgrbrhgMuPZJpUKNvOXTkRbXtUsgvO2g5TaIDMkO0RYO7UcE0O2EATqkEND7zfri=/kisspng-google-logo-google-search-google-account-redes-5ad81f9da5df28.3745082315241133096794.png",
+        "image": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png",
         "clicked": false
     },
     {
@@ -50,9 +50,9 @@
     {
         "id": 9,
         "name": "skype",
-        "image": "http://www.hdicon.com/wp-content/uploads/2013/03/skype_2013.png",
+        "image": "https://www.freepnglogos.com/uploads/skype-logo-png/skype-logo-vector-icon-template-clipart-download-0.png",
         "clicked": false
-    },
+    }, 
     {
         "id": 10,
         "name": "spotify",
